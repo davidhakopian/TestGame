@@ -6,6 +6,7 @@ import java.awt.event.KeyListener;
 
 import javax.swing.JPanel;
 
+
 public class Field extends JPanel{
 	public Field (KeyListener kl){
 		setBackground(Color.BLACK);

@@ -11,7 +11,7 @@ public class GameController {
 	
 	public GameController()
 	{
-		//create Field with paint functin defined in controller
+		//create Field with paint function defined in controller
 		mField = new Field(ka){
 			@Override
 			public void paintComponent(Graphics g){

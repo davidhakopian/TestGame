@@ -2,6 +2,7 @@ package com.Galactica.Views;
 
 import javax.swing.JFrame;
 
+
 //import Controllers.GameController;
 
 public class Application extends JFrame {
