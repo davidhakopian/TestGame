@@ -1,9 +1,11 @@
 package com.Galactica.Game;
 
+import com.Galactica.Views.Application;
+
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Application game = new Application();
 
 	}
 
